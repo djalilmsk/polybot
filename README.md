@@ -140,12 +140,12 @@ If you're not familiar with React:
 
 ## ✨ Team Members
 
-Team led by: **KOUZOU Zakaria**
-Tech lead: **MESKALI Mohamed Ali**
-Communications: **AGUENAROUS Mohamed Rayan**
-Electronics: **BOUKHARI Abdenour**, **BERBAH Rania**
-Automation: **DOUALA Mohamed Zakaria**, **HAMMOUCHE Mohamed Amine**
-Mechanics: **OULADDA Daoud**
+- Team led by: **KOUZOU Zakaria**
+- Tech lead: **MESKALI Mohamed Ali**
+- Communications: **AGUENAROUS Mohamed Rayan**
+- Electronics: **BOUKHARI Abdenour**, **BERBAH Rania**
+- Automation: **DOUALA Mohamed Zakaria**, **HAMMOUCHE Mohamed Amine**
+- Mechanics: **OULADDA Daoud**
 
 Visit the [Eurobot official site](https://www.eurobot.org/) for more on the competition.
 
